@@ -9,26 +9,28 @@
 ---
 ### Conference papers(first author)
 ・Bounding Box Aware Edge-Cloud Collaborative Method for Multiple Object Detection
-([IEEE AIC 2024](https://scrs.in/conference/aic2024)), (To appear) <br>
+([IEEE AIC 2024](https://scrs.in/conference/aic2024))  <br>
+&emsp;(To appear) <br>
 ・A Video Object Detection Method of ECNet Based on Frame Difference and Grid Cell Confidence
 ([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
-&emsp;(https://ieeexplore.ieee.org/abstract/document/10315349)
+&emsp;([paper pdf](https://ieeexplore.ieee.org/abstract/document/10315349))
 <br>
 ・Edge-Cloud Collaborative Object Detection Model with Feature Compression 
 ([IIEEJ IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
-&emsp;(https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-12.pdf)
+&emsp;([paper pdf](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-12.pdf))
 <br>
 
 ### Conference papers(others)
 ・Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss 
-([IEEE ICIP 2024](https://2024.ieeeicip.org))),(To appear)<br>
+([IEEE ICIP 2024](https://2024.ieeeicip.org))  <br>
+&emsp;(To appear)<br>
 ・Image Coding for Machines with Objectness-based Feature Distillation 
 ([IIEEJ IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
-&emsp;(https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-07.pdf)
+&emsp;([paper pdf](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEVC_LBP-07.pdf))
 <br>
 ・Introduction of Auxiliary Loss in Deep Image Compression for Image Recognition - 画像認識向け深層画像圧縮における補助損失の導入
-([IEICE](https://www.ieice.org/jpn_r/activities/taikai/general/2024/en/))<br>
-&emsp;(https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-12A-37.pdf)
+([IEICE 2024](https://www.ieice.org/jpn_r/activities/taikai/general/2024/en/))<br>
+&emsp;([paper pdf](https://www.ams.giti.waseda.ac.jp/data/pdf-files/2024IEICE_D-12A-37.pdf))
 
 ---
 <br>
