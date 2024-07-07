@@ -4,7 +4,7 @@
 
 &emsp; Image Recognition<br>
 &emsp; Object Detection, Classification<br>
-&emsp; Image/Video Compression<br>
+&emsp; Image / Video Compression<br>
 
 ---
 ### Conference papers(first author)
