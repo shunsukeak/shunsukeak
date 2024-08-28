@@ -8,7 +8,7 @@
 
 ---
 ### Conference papers(first author)
-・On the impact of learning-based image compression on computer vision tasks
+・On The Impact of Learning-based Image Compression on Computer Vision Tasks
 ([SPIE Applications of Digital Image Processing XLVII](https://spie.org/OPO/conferencedetails/digital-image-processing#_=_))<br>
 &emsp;(To appear) <br>
 ・Bounding Box Aware Edge-Cloud Collaborative Method for Multiple Object Detection
