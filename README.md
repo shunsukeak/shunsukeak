@@ -8,6 +8,9 @@
 
 ---
 ### Conference papers(first author)
+・On the impact of learning-based image compression on computer vision tasks
+([SPIE Applications of Digital Image Processing XLVII](https://spie.org/OPO/conferencedetails/digital-image-processing#_=_))<br>
+&emsp;(To appear) <br>
 ・Bounding Box Aware Edge-Cloud Collaborative Method for Multiple Object Detection
 ([IEEE AIC 2024](https://scrs.in/conference/aic2024))  <br>
 &emsp;(To appear) <br>
@@ -23,6 +26,9 @@
 ### Conference papers(others)
 ・Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss 
 ([IEEE ICIP 2024](https://2024.ieeeicip.org))  <br>
+&emsp;(To appear)<br>
+・Classification in Japanese Sign Language Based on Dynamic Facial Expressions
+([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html))  <br>
 &emsp;(To appear)<br>
 ・Image Coding for Machines with Objectness-based Feature Distillation 
 ([IIEEJ IEVC 2024](https://www.iieej.org/en/ievc2024/))<br>
