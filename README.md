@@ -13,7 +13,7 @@
 &emsp;([paper pdf](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13137/131370M/On-the-impact-of-learning-based-image-compression-on-computer/10.1117/12.3030885.full?webSyncID=49dab6a0-cbad-0593-29ad-883c9d902bc9&sessionGUID=993ced26-8bea-d49a-2853-1ab0d3a6b03c&tab=ArticleLink)) <br>
 ・Bounding Box Aware Edge-Cloud Collaborative Method for Multiple Object Detection
 ([IEEE AIC 2024](https://scrs.in/conference/aic2024))  <br>
-&emsp;([paper pdf](https://ieeexplore.ieee.org/document/10731035) <br>
+&emsp;([paper pdf](https://ieeexplore.ieee.org/document/10731035)) <br>
 ・A Video Object Detection Method of ECNet Based on Frame Difference and Grid Cell Confidence
 ([IEEE GCCE 2023](https://www.ieee-gcce.org/2023/index.html))<br>
 &emsp;([paper pdf](https://ieeexplore.ieee.org/abstract/document/10315349))
