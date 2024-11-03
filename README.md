@@ -29,7 +29,7 @@
 &emsp;(To apper)<br>
 ・Improving Image Coding for Machines through Optimizing Encoder via Auxiliary Loss 
 ([IEEE ICIP 2024](https://2024.ieeeicip.org))  <br>
-&emsp;([paper pdf](https://ieeexplore.ieee.org/document/10647577)<br>
+&emsp;([paper pdf](https://ieeexplore.ieee.org/document/10647577))<br>
 ・Classification in Japanese Sign Language Based on Dynamic Facial Expressions
 ([IEEE GCCE 2024](https://www.ieee-gcce.org/2024/index.html))  <br>
 &emsp;(To appear)<br>
