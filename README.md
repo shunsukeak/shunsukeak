@@ -5,7 +5,7 @@ Master's student in Computer Science at Columbia University. <br>
 [Linedin](https://www.linkedin.com/in/shunsuke-akamatsu)<br>
 [Google Scholar](https://scholar.google.co.jp/citations?user=Qs5XyiYAAAAJ)<br> 
 
-#### Keywords
+### Keywords
 &emsp; Image Recognition<br>
 &emsp; Object Detection, Classification<br>
 &emsp; Image / Video Compression<br>
