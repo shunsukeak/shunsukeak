@@ -1,10 +1,11 @@
 
 ### About me
-I am a master’s student majoring in Computer Science at Columbia University.
+I am a master’s student majoring in Computer Science at Columbia University. Before pursuing my master’s degree, I completed my undergraduate studies at Waseda University. <br>
 [Homepage](https://shunsukeak.github.io/)<br>
 [Linedin](https://www.linkedin.com/in/shunsuke-akamatsu)<br>
 [Google Scholar](https://scholar.google.co.jp/citations?user=Qs5XyiYAAAAJ)<br> 
 
+##### Keywords
 &emsp; Image Recognition<br>
 &emsp; Object Detection, Classification<br>
 &emsp; Image / Video Compression<br>
