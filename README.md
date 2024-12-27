@@ -1,6 +1,6 @@
 
 ### About me
-I am a master’s student majoring in Computer Science at Columbia University. Before pursuing my master’s degree, I completed my undergraduate studies at Waseda University. <br>
+Master's student in Computer Science at Columbia University. <br>
 [Homepage](https://shunsukeak.github.io/)<br>
 [Linedin](https://www.linkedin.com/in/shunsuke-akamatsu)<br>
 [Google Scholar](https://scholar.google.co.jp/citations?user=Qs5XyiYAAAAJ)<br> 
