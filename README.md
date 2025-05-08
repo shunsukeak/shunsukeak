@@ -1,7 +1,7 @@
 
 ### About me
 Master's student in Computer Science at Columbia University. <br>
-[Homepage](https://shunsukeak.github.io/) | [Linedin](https://www.linkedin.com/in/shunsuke-akamatsu) | [Google Scholar](https://scholar.google.co.jp/citations?user=Qs5XyiYAAAAJ)<br> 
+[Homepage](https://shunsukeak.github.io/) | [Linkedin](https://www.linkedin.com/in/shunsuke-akamatsu) | [Google Scholar](https://scholar.google.co.jp/citations?user=Qs5XyiYAAAAJ)<br> 
 
 ### Keywords
 &emsp; Image Recognition<br>
